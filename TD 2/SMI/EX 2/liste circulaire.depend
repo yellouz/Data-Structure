@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1731620183 source:g:\data structure\liste circulaire\affichage.c
+	"header.h"
+
+1731620389 g:\data structure\liste circulaire\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1731593279 source:g:\data structure\liste circulaire\ajout_debut_fin.c
+	"header.h"
+
+1731620533 source:g:\data structure\liste circulaire\main.c
+	"header.h"
+
+1731619420 source:g:\data structure\liste circulaire\suppression.c
+	"header.h"
+
+1731620595 source:g:\data structure\liste circulaire\creer_vider.c
+	"header.h"
+

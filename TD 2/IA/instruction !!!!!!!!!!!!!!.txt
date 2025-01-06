@@ -1,0 +1,5 @@
+copy this folder to desktop
+run terminal
+cd desktop/TD 2
+gcc *.c -o prog
+prog
